@@ -1,0 +1,47 @@
+.container {
+  max-width: 1200vh;
+  justify-content: center;
+  background-color: #e4f9f5;
+
+}
+
+.display-2 {
+  font-family: 'Pacifico', cursive;
+  /* background-color: aqua; */
+  color: antiquewhite;
+  text-decoration: underline;
+  /* font-size: x-large; */
+}
+
+#me{
+  border-radius: 5rem;
+  border: 2px solid grey;
+}
+
+h1 {
+  color:  #66bfbf;
+}
+
+.bottom {
+  color: #66bfbf;
+}
+
+.skills {
+  background-color: ghostwhite;
+}
+
+h2 {
+  color: #66bfbf;
+  margin-top: 2rem;
+}
+
+.skill {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.intro {
+  font-weight: bolder;
+  /* font-size: xxxxxxxxxx-large; */
+}
+
